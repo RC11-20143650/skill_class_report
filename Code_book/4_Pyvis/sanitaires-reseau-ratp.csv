@@ -1,0 +1,48 @@
+Ligne,Station,Public,AccesBouton,Emplacement
+14,Bibliotheque Francois Mitterrand,oui,oui,Hors zone controlee station
+14,Cour Saint-Emilion,oui,oui,Hors zone controlee station
+14,Saint Lazare,oui,oui,Hors zone controlee station
+A,Charles de Gaulle - Etoile,oui,oui,En zone controlee
+A,Chatelet,oui,oui,Hors zone controlee station
+A,Chatelet,oui,oui,En zone controlee
+A,Nanterre - Prefecture,oui,oui,En zone controlee
+A,Noisy-le-Grand - Mont d'Est,oui,oui,En zone controlee
+A,Noisy-le-Grand - Mont d'Est,oui,oui,Hors zone controlee station
+A,Saint-Maur - Creteil,oui,non,Hors zone controlee voie publique
+A,Val d'Europe,oui,oui,Hors zone controlee station
+13,Les Agnettes,oui,oui,Hors zone controlee station
+14,Bercy,oui,oui,En zone controlee
+14,Gare de Lyon,oui,oui,Hors zone controlee station
+14,Olympiades,oui,oui,Hors zone controlee station
+A,Auber,oui,oui,En zone controlee
+A,Chatelet,oui,oui,Hors zone controlee station
+A,Nanterre - Universite,oui,oui,Hors zone controlee station
+A,Rueil-Malmaison,oui,oui,En zone controlee
+A,Saint-Germain-en-Laye,oui,non,Hors zone controlee station
+B,Antony,oui,oui,En zone controlee
+B,Arcueil Cachan,oui,non,Hors zone controlee voie publique
+B,Bourg-la-Reine,oui,oui,En zone controlee
+B,Cite Universitaire,oui,oui,Hors zone controlee station
+B,Massy - Palaiseau,oui,non,Hors zone controlee voie publique
+B,Saint-Remy-les-Chevreuse,oui,non,Hors zone controlee voie publique
+5,Bobigny - Pablo Picasso,oui,oui,Hors zone controlee station
+A,Gare de Lyon,oui,oui,En zone controlee
+A,Marne-la-Vallee - Chessy,oui,oui,En zone controlee
+A,Nogent-sur-Marne,oui,oui,Hors zone controlee station
+B,Gentilly,oui,oui,En zone controlee
+B,Robinson,oui,oui,En zone controlee
+1,Charles de Gaulle - Etoile,oui,oui,Hors zone controlee station
+7,Villejuif - Louis Aragon,oui,non,Hors zone controlee voie publique
+13,Asnieres-Gennevilliers - Les Courtilles,oui,oui,En zone controlee
+14,Pyramides,oui,oui,Hors zone controlee station
+A,Nanterre - Ville,oui,oui,En zone controlee
+A,Saint-Germain-en-Laye,oui,oui,En zone controlee
+B,Laplace,oui,non,Hors zone controlee voie publique
+10,Cluny - La Sorbonne,oui,non,Hors zone controlee voie publique
+12,Concorde,non,oui,En zone controlee
+14,Madeleine,oui,oui,Hors zone controlee station
+A,Charles de Gaulle - Etoile,oui,oui,En zone controlee
+A,La Defense (Grande Arche),oui,oui,Hors zone controlee station
+A,Nation,oui,oui,En zone controlee
+B,Denfert-Rochereau,oui,oui,En zone controlee
+B,Gif-sur-Yvette,oui,oui,Hors zone controlee station
